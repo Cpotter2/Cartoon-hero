@@ -1,0 +1,47 @@
+body {
+	background-color: #f2ecb3;
+	font-family: "Verdana", "Ariel", "Ariel Black";
+	margin-top: 0px;
+}
+
+#nav {
+}
+
+#nav ul {
+	list-style: none;
+	background: darkred;
+	color: white;
+	margin: 0px;
+	padding: 12px;
+	text-align: center;
+}
+
+#nav ul li {
+	margin:0px;
+	padding: 2px 8px;
+	border: double;
+	border-radius: 5px;
+	display: inline;
+	color: white
+}
+
+#nav ul li:hover {
+	color: black;
+	background: lightgray;
+}
+
+#nav ul li a {
+	text-decoration: none;
+	margin: 0px;
+	color: inherit;
+}
+
+
+#Colton img {
+	float: left;
+	margin-right: 20px;
+}
+
+h3 {
+	margin-bottom: 10px;
+}
